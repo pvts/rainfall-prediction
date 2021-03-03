@@ -1,1 +1,3 @@
-# weather-tbc
+# Rainfall prediction
+
+WIP
