@@ -1,6 +1,6 @@
-# Rainfall prediction - WIP
+# Rainfall prediction
 
-EDA and predictions using Machine Learning on a dataset containing weather data obtained from the Australian Bureau of Meteorology. An extra column to the existing dataset called `Rain Tomorrow` has been manually added. You can find the original dataset (segregated) below;
+EDA and predictions using Machine Learning models on a dataset containing weather data obtained from the Australian Bureau of Meteorology. An extra column to the existing dataset called `Rain Tomorrow` has been manually added, which predicts the probability of observing rain on the following day. You can find the original dataset (segregated) below;
 
 http://www.bom.gov.au/climate/data/
 
