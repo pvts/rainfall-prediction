@@ -4,4 +4,4 @@ EDA and predictions using Machine Learning models on a dataset containing weathe
 
 http://www.bom.gov.au/climate/data/
 
-Our first aim is to explore the dataset (EDA) by using graphs to visualize any interesting patterns/trends. Machine and Deep Learning classifiers are deployed to predict whether, based on the current set of features, it will rain in the following day.
+Our first aim is to explore the dataset (EDA) by using graphs to visualize any interesting patterns/trends. Machine and Deep Learning classifiers are deployed to predict whether, based on the current set of features, it will rain on the following day.
